@@ -61,7 +61,7 @@ function init() {
 
   // Initialize ThreeJs
   const aspect = window.innerWidth / window.innerHeight;
-  const width = 30;
+  const width = 20;
   const height = width / aspect;
 
   
