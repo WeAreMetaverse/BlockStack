@@ -80,7 +80,7 @@ a:visited {
 
 #results .content,
 #instructions .content {
-  max-width: 50%;
+  max-width: 60%;
   padding: 100px;
   border-radius: 50px;
 }
