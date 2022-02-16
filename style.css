@@ -38,6 +38,16 @@ h5 {
   position: relative;
 }
 
+button {
+  padding: 10px 10px 10px 10px;
+  position: relative;
+  margin-top: 50px;
+  color: rgb(0, 0, 0);
+  font-size: 3em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
 #boxtext {
   display: inline-block;
   border: solid white 2px;
@@ -49,7 +59,7 @@ h5 {
 }
 
 #results,
-body:hover #instructions {
+body, #instructions {
   position: absolute;
   display: flex;
   align-items: center;
